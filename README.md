@@ -8,9 +8,11 @@ Using css position absolute attribute compeleted the project.i have learned a lo
 ![badge](https://img.shields.io/badge/Time%20Taken-1Hr%2045%20Min-brightgreen)
 
 ### Live Link of this Project
-[ProjectLink](https://fsjswdproject06.netlify.appp)
+
+[ProjectLink](https://fsjswdproject06.netlify.app)
 
 ## Screen shorts of this Project
 
 ### Web view
 ![Web view](/screenshots/web-view.jpeg)
+
